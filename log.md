@@ -117,6 +117,7 @@ How to create a sign in form will make it work tomorrow and edit my project logo
 
 **Today's Journey**: It was a great event. Learn new about Flutter is a portable UI toolkit built with the best aspects of web and mobile development in one.
 (Flutter is Google’s open-source)
+![Learn React.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/Flutter.png "Flutter")
 
 ### Links
 https://www.youtube.com/watch?v=lhyAMLmQuCI&list=PLUj8-Hhrb-a1MRRFhL5n_zYXIrHGFk-BT
@@ -129,31 +130,43 @@ https://www.youtube.com/watch?v=lhyAMLmQuCI&list=PLUj8-Hhrb-a1MRRFhL5n_zYXIrHGFk
 
 ### Day 25: January 26, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Node.js; learn how to run js files in Node by using Terminal.  And learn Modules in Node.
 
 ### Day 26: January 27, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Node.js; learn Types of Modules and install nodemon.  nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+![Learn React.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/nodemon.png "nodemon")
 
 ### Day 27: January 28, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Node.js; learn to build a server. Also, do some the request and give me a lot of information about the request that receives.
+![Learn React.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/server.png "server")
 
 ### Day 28: January 29, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Express.js; Their many libraries that people use with Node to create a server. But the most popular and hands-down the best one right now is Express. Learn How to use request method: GET
+![Learn React.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/GET.png "GET")
 
 ### Day 29: January 30, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Express.js; learn basics how Express works by adding their routes. Tomorrow will continue to learn an important concept in Express: it is Middleware.
+![Learn React.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/express.png "express.js")
 
 ### Day 30: January 31, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Express.js; learn basics just the basic concept of middleware: something that receives ahead of time before I get to the routes, the request, modifies it and then passes the next function to keep going.
+
+![Learn React.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/middleware.png "basics just the basic concept of middleware")
 
 ### Day 31: February 01, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Express.js; In order for me to get test something more than just GET, I can use the Terminal today I learn there’s a really nice tool that allows me to make these requests to a server and see what I get back @postmanclient
+
+![Learn React.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/postman.png "postmanclient")
+![Learn React.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/day31.png "postmanclient")
+
+### Links
+https://www.getpostman.com/
 
 
 ### Day 32: February 02, 2019
