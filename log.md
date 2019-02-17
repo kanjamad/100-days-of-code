@@ -26,8 +26,7 @@
 ### Day 6: January 07, 2019
 
 **Today's Journey**: #100daysofcode learning React.js; working on API face detection box. Trying to get one bounding_box[0] around a face. Try to console.log and see something not right. Well is not working today, But tomorrow I will make it work.
-![React.js] url(../img/womanFace.png)( "working on API face detection box.")
-
+![Learn React.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/womanFace.png "working on API face detection box")
 
 ### Day 7: January 08, 2019
 
