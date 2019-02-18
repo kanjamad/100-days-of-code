@@ -2,7 +2,7 @@
 ## ถ้าคุณตัดสินใจที่จะเข้าร่วม:
 
 0. อ่านข้อมูลเพิ่มเติ่มได้ที่ the Official Site](http://100daysofcode.com/) เพื่อความมุ่งมั่น การเขียนโปรแกรมในระยะเวลา 100วัน #100DaysOfCode 
-เข้าร่วมเป็นสมาชิกในอีกหลายๆกลุ่ม ในหัวข้ออื่นๆที่คุณอาจสนใจได้ที่ และอีกทางเลือกหนึ่งในการติดต่อสมาชิกในกลุ่ม เขียนโปรแกรมในระยะเวลา 100วัน ได้ที่   [ที่นี้](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) 
+เข้าร่วมเป็นสมาชิกในอีกหลายๆกลุ่ม ในหัวข้ออื่นๆที่คุณอาจสนใจได้ที่ www.100DaysOfCode.com/connect และอีกทางเลือกหนึ่งในการติดต่อสมาชิกในกลุ่ม เขียนโปรแกรมในระยะเวลา 100วัน ได้ที่   [ที่นี้](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) 
 
 1. อ่านบทความเพิ่มได้ที่ [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 
