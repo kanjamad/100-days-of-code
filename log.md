@@ -171,63 +171,76 @@ https://www.getpostman.com/
 
 ### Day 32: February 02, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Express.js; Learn how RESTful API work, A RESTful API  defines a set of function which developers can perform requests and receive responses via an HTTP protocol such as GET, POST, PUT, DELETE. Tomorrow will continue more
 
 ### Day 33: February 03, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Review Git.Tomorrow will back to learn Express.js;
+![git](https://github.com/kanjamad/100-days-of-code/blob/master/img/git.png "git")
 
 ### Day 34: February 04, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Express.js; Just learn how to send data back and forth to @postmanclient  and to my browser.
+![Express.js](https://github.com/kanjamad/100-days-of-code/blob/master/img/Expresss.png "git")
 
 ### Day 35: February 05, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Express.js - Serving static files; that clients download as they are from the server. Create a new directory, public. Express, by default, it using the following built-in middleware.
+        app.use(express.static('public'));
 
 ### Day 36: February 06, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Time to learn Express.js - The ultimate cheat sheet for Express.js.
+
+### Link
+https://devhints.io/express.html
 
 ### Day 37: February 07, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Learn Node.js String Decoder Module https://www.w3schools.com/nodejs/ref_string_decoder.asp … and UTF 8 https://en.wikipedia.org/wiki/UTF-8 
 
 ### Day 38: February 08, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: learned about String decoder method in node.js which is used for decoding buffer object into strings. Also learned about two methods of string decoder which are     stringDecoder.write(buffer) and stringDecoder.end(buffer)
 
 ### Day 39: February 09, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**:  I learned about the basics of debuggers , how I can invoke node.js debugger , useful debugger commands and lastly command shortcuts.
 
 ### Day 40: February 10, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Map of the Internet is a beautiful, interactive overview of how the Internet is physical.
+### Link
+https://classic.qz.com/map-of-the-internet/
 
 ### Day 41: February 11, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: What is the difference between synchronous and asynchronous programming (in node.js)
+### Link
+https://stackoverflow.com/questions/16336367/what-is-the-difference-between-synchronous-and-asynchronous-programming-in-node
 
 ### Day 42: February 12, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: What is the difference between synchronous and asynchronous programming (in node.js)
+![node](https://github.com/kanjamad/100-days-of-code/blob/master/img/node.png "node")
 
 ### Day 43: February 13, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: learn Append a File using Nodejs https://www.w3schools.com/nodejs/nodejs_filesystem.asp …
+![node](https://github.com/kanjamad/100-days-of-code/blob/master/img/append.png "node")
 
 ### Day 44: February 14, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: learn Write a File in Nodejs https://www.nodejsera.com/nodejs-tutorial-day2-filesystem.html …
 
 ### Day 45: February 15, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Learn Node File System Module. Now I am understanding how I can use programming to solve problems and make my life more efficient, or maybe just a little bit more fun
+![node](https://github.com/kanjamad/100-days-of-code/blob/master/img/delete.png "node")
 
 ### Day 46: February 16, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: "Not Quite Lisp" - Day 1 - Advent of Code 2015 https://adventofcode.com/2015/day/1  #AdventOfCode
 
 ### Day 47: February 17, 2019
 
