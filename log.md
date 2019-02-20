@@ -244,7 +244,12 @@ https://stackoverflow.com/questions/16336367/what-is-the-difference-between-sync
 
 ### Day 47: February 17, 2019
 
-**Today's Journey**: #100daysofcode learning React; how to create some functionality, where I can enter a url. A bit of confusing but feel awesome after my code is work.
+**Today's Journey**: Learn Node.js and Express.js
+![node](https://github.com/kanjamad/100-days-of-code/blob/master/img/expree-node.png "node")
+
+### Day 48: February 18, 2019
+
+**Today's Journey**: make a server for my project the API face detect app. Just install nodemon, install express, install body-parser @postmanclient  and create basic skeleton of Express app
 
 
 
