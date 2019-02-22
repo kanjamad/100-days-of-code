@@ -251,6 +251,14 @@ https://stackoverflow.com/questions/16336367/what-is-the-difference-between-sync
 
 **Today's Journey**: make a server for my project the API face detect app. Just install nodemon, install express, install body-parser @postmanclient  and create basic skeleton of Express app
 
+### Day 49: February 19, 2019
+
+**Today's Journey**: Create basic route and planning my project to have an idea of what my API design will look like.
+
+### Day 50: February 20, 2019
+
+**Today's Journey**: Building some actual routes for my app. Now my Sign in working nicely
+
 
 
 
