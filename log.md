@@ -259,8 +259,10 @@ https://stackoverflow.com/questions/16336367/what-is-the-difference-between-sync
 
 **Today's Journey**: Building some actual routes for my app. Now my Sign in working nicely
 
-
-
+### Day 51: February 21, 2019
+**Today's Journey**: Building the skeleton of a register and testing them with Postman to make sure that they’re working.
+![Express](https://github.com/kanjamad/100-days-of-code/blob/master/img/Register.png "Express")
+![Express](https://github.com/kanjamad/100-days-of-code/blob/master/img/R-Postman.png "Express")
 
 
 
