@@ -264,7 +264,16 @@ https://stackoverflow.com/questions/16336367/what-is-the-difference-between-sync
 ![Express](https://github.com/kanjamad/100-days-of-code/blob/master/img/Register.png "Express")
 ![Express](https://github.com/kanjamad/100-days-of-code/blob/master/img/R-Postman.png "Express")
 
+### Day 52: February 22, 2019
+**Today's Journey**: Setting up profile/:userId route
+![Express](https://github.com/kanjamad/100-days-of-code/blob/master/img/profile.png "Express")
 
+
+### Day 53: February 23, 2019
+
+**Today's Journey**: Learning about bcrypt-nodejs is a library that is very powerful. It allows me to create a very secure login.
+### Link
+https://www.npmjs.com/package/bcrypt-nodejs
 
 
 
