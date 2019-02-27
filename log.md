@@ -277,3 +277,17 @@ https://www.npmjs.com/package/bcrypt-nodejs
 
 
 
+### Day 54: February 24, 2019
+
+**Today's Journey**: learning bcrypt-nodejs gives us a way to hash a password and a way to compare passwords the hashes. Security is really important, Always send any sensitive information from the front-end to the back-end using HTTPS in a POST body
+![Express](https://github.com/kanjamad/100-days-of-code/blob/master/img/day54.png "Express")
+
+
+### Day 55: February 25, 2019
+
+**Today's Journey**: Learning How to Storing User Passwords Securely
+### Link
+https://blog.rangle.io/how-to-store-user-passwords-and-overcome-security-threats-in-2017/
+
+
+
