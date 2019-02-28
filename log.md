@@ -290,4 +290,12 @@ https://www.npmjs.com/package/bcrypt-nodejs
 https://blog.rangle.io/how-to-store-user-passwords-and-overcome-security-threats-in-2017/
 
 
+### Day 56: February 26, 2019
+
+**Today's Journey**: try to connecting my React app to communicate with the back-end. Use fetch
+
+### Link
+https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+
+
 
