@@ -297,5 +297,14 @@ https://blog.rangle.io/how-to-store-user-passwords-and-overcome-security-threats
 ### Link
 https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
 
+### Day 57: February 27, 2019
+
+**Today's Journey**:I got an error.... Learn about CORS is an important concept in web security 
+![React](https://github.com/kanjamad/100-days-of-code/blob/master/img/sign-in.png "React")
+
+
+
+### Link
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
 
