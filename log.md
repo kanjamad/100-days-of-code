@@ -308,3 +308,18 @@ https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
 
+### Day 58: February 28, 2019
+
+**Today's Journey**:Using fetch in order to connect with my server.
+![React](https://github.com/kanjamad/100-days-of-code/blob/master/img/Register_58.png "React")
+![React](https://github.com/kanjamad/100-days-of-code/blob/master/img/58.png "React")
+
+### Day 59: March 1, 2019
+
+**Today's Journey**:using object.assign it's part of the JavaScript spec but I get the target object. In my case, it's this.state.user and then the second parameter is where I want to extend it with. In my case the entries and count.
+![React](https://github.com/kanjamad/100-days-of-code/blob/master/img/day59.png "React")
+
+
+
+### Link
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
