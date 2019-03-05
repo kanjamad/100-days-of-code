@@ -330,7 +330,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ### Day 61: March 3, 2019
 
 **Today's Journey**:Learning how to create a table of what I want my database to look like . 
-![React](https://github.com/kanjamad/100-days-of-code/blob/master/img/database-table.png "React")
+![database](https://github.com/kanjamad/100-days-of-code/blob/master/img/database-table.png "database")
 
 
 ### Link
