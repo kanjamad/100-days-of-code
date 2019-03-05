@@ -320,6 +320,18 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 ![React](https://github.com/kanjamad/100-days-of-code/blob/master/img/day59.png "React")
 
 
-
 ### Link
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
+
+### Day 60: March 2, 2019
+
+**Today's Journey**:Learning about what is a database?
+
+### Day 61: March 3, 2019
+
+**Today's Journey**:Learning how to create a table of what I want my database to look like . 
+![React](https://github.com/kanjamad/100-days-of-code/blob/master/img/database-table.png "React")
+
+
+### Link
+https://www.techonthenet.com/postgresql/datatypes.php
