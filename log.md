@@ -335,3 +335,21 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ### Link
 https://www.techonthenet.com/postgresql/datatypes.php
+
+
+### Day 61: March 4, 2019
+
+**Today's Journey**:Learning SQL Commands. 
+
+
+### Link
+https://www.codecademy.com/articles/sql-commands
+
+
+### Day 61: March 5, 2019
+
+**Today's Journey**:Still learning SQL Commands. 
+
+
+### Link
+https://www.codecademy.com/articles/sql-commands
