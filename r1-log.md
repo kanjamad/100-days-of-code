@@ -15,4 +15,6 @@ In general there are 3 ways how to start using CSS the
 2. internal  
 3. external CSS.
 
-### R1D2
+### R1D2 (June 14,2019)
+I will build nice profile card. Manipulate on backgrounds and create some cool effects. Project will be built based on HTML and CSS
+* [Link to project hosted on Github](https://github.com/kanjamad/Invisible-Card)
