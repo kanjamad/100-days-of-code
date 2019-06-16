@@ -20,7 +20,7 @@ I will build nice profile card. Manipulate on backgrounds and create some cool e
 * [Link to project hosted on Github](https://github.com/kanjamad/Invisible-Card)
 
 ### R1D3 (June 15,2019)
-Finish reate a profile card base on HTML CSS. It was an interesting project and I learned some more cool CSS.
+Finish create a profile card base on HTML CSS. It was an interesting project and I learned some more cool CSS.
 * [Link to project hosted on Github](https://github.com/kanjamad/Invisible-Card)
 * [Link to project hosted on Netlify](https://card-profile-kanjamad.netlify.com/)
 
