@@ -18,3 +18,10 @@ In general there are 3 ways how to start using CSS the
 ### R1D2 (June 14,2019)
 I will build nice profile card. Manipulate on backgrounds and create some cool effects. Project will be built based on HTML and CSS
 * [Link to project hosted on Github](https://github.com/kanjamad/Invisible-Card)
+
+### R1D3 (June 15,2019)
+Finish reate a profile card base on HTML CSS. It was an interesting project and I learned some more cool CSS.
+* [Link to project hosted on Github](https://github.com/kanjamad/Invisible-Card)
+* [Link to project hosted on Netlify](https://card-profile-kanjamad.netlify.com/)
+
+![website-gif](image-r1-log/card.gif "website-gif")
