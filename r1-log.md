@@ -51,3 +51,8 @@ Finish create a profile card base on HTML CSS. It was an interesting project and
 ![website-gif](image-r1-log/animate.gif "website-gif")
 
 ---
+### R1D5 (June 17,2019)
+Learning CSS transform and play with it.
+* <a href="https://codepen.io/team/css-tricks/pen/ebb6b5a5cec86aa04168f03e26c7501c" target="_blank">CSS transform</a>
+
+___
