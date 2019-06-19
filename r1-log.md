@@ -56,3 +56,12 @@ Learning CSS transform and play with it.
 * <a href="https://codepen.io/team/css-tricks/pen/ebb6b5a5cec86aa04168f03e26c7501c" target="_blank">CSS transform</a>
 
 ___
+
+### R1D6 (June 18,2019)
+Learning CSS transform property
+![ rotate front and back ](image-r1-log/ratateY.gif  "  rotate front and back ")
+* <a href="https://codepen.io/team/css-tricks/pen/ebb6b5a5cec86aa04168f03e26c7501c" target="_blank">CSS transform</a>
+* <a href="https://www.youtube.com/watch?v=wmAP2xvNs08&t=932s" target="_blank">CSS Positioning Tutorial for Beginners</a>
+* <a href="https://www.youtube.com/watch?v=N5EW4HnF6FU&t=24s" target="_blank">The Only 2 CSS Properties You Should Animate</a>
+
+___
