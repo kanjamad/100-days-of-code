@@ -65,3 +65,69 @@ Learning CSS transform property
 * <a href="https://www.youtube.com/watch?v=N5EW4HnF6FU&t=24s" target="_blank">The Only 2 CSS Properties You Should Animate</a>
 
 ___
+
+### R1D7 (June 19,2019)
+
+* Create Rotate 3 cube by click on left arrow. 
+* ES6 Cover it back to an Array using; Array.from() or using the spread operator ...
+* Loop : forEach
+* Transition nicer : use transition in style CSS because on 1st click is happend only one I indicated as a value just 90 degrees then on 2nd click is already rotated by 90 degrees.So that's why don't have other rotation.
+
+
+```
+
+   const cubes = document.querySelectorAll('.cube');
+    console.log(cubes); //NodeList(3) [div.cube.cube-1, div.cube.cube-2, div.cube.cube-3]
+
+    //ES6 Cover NodeList back to an Array using by using the spread operator ...
+    var backToArray= [...cubes]
+    console.log(backToArray); //(3) [div.cube.cube-1, div.cube.cube-2, div.cube.cube-3]
+
+    //ES6 Cover NodeList back to an Array using Array.from()
+    var array = Array.from(cubes)
+    console.log(array); //(3) [div.cube.cube-1, div.cube.cube-2, div.cube.cube-3]
+
+```
+```
+document.querySelector('.left-arrow').addEventListener('click', () => {
+    // console.log("click on left")
+    const cubes = document.querySelectorAll('.cube');
+    console.log(cubes);
+    [...cubes].forEach(cube => cube.style.transform = 'rotateY(90deg');
+});
+
+```
+* style CSS : use different delay time 
+```
+.cube-1 {
+    transition: transform .4s;
+    -webkit-transition: transform .4s;
+    -moz-transition: transform .4s;
+    -ms-transition: transform .4s;
+    -o-transition: transform .4s;
+}
+
+.cube-2 {
+    z-index: 10;
+    transition: transform .4s .2s;
+    -webkit-transition: transform .4s .2s;
+    -moz-transition: transform .4s .2s;
+    -ms-transition: transform .4s .2s;
+    -o-transition: transform .4s .2s;
+}
+
+.cube-3 {
+    transition: transform .4s .4s;
+    -webkit-transition: transform .4s .4s;
+    -moz-transition: transform .4s .4s;
+    -ms-transition: transform .4s .4s;
+    -o-transition: transform .4s .4s;
+}
+
+
+```
+![ rotate click left arrow  ](image-r1-log/90deg.gif  " rotate click left arrow  ")
+* <a href="https://www.samanthaming.com/tidbits/43-3-ways-to-remove-array-duplicates" target="_blank">Convert it back to an Array </a>
+
+
+___
