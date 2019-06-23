@@ -141,7 +141,7 @@ ___
 
 
 ### R1D9 (June 21,2019)
-* Went to event the @sfhtml5 
+* Went to the event @sfhtml5 
 * Learn Declarative Reactive Web Components with LitElement
 
 * <a href="https://www.youtube.com/watch?v=9FB0GSOAESo&t=3s" target="_blank">Declarative Reactive Web Components with Justin Fagnani</a>
