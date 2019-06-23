@@ -131,3 +131,25 @@ document.querySelector('.left-arrow').addEventListener('click', () => {
 
 
 ___
+
+### R1D8 (June 20,2019)
+Review Program Structure. 
+
+* <a href="http://eloquentjavascript.net/02_program_structure.html" target="_blank">Program Structure</a>
+
+___
+
+
+### R1D9 (June 21,2019)
+* Went to event the @sfhtml5 
+* Learn Declarative Reactive Web Components with LitElement
+
+* <a href="https://www.youtube.com/watch?v=9FB0GSOAESo&t=3s" target="_blank">Declarative Reactive Web Components with Justin Fagnani</a>
+___
+
+### R1D10 (June 22,2019)
+Learning more about CSS grid and working on React project
+
+![ React project  ](image-r1-log/react.png  " React project  ")
+* <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank">A Complete Guide to Grid</a>
+___
