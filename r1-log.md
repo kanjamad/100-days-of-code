@@ -153,3 +153,21 @@ Learning more about CSS grid and working on React project
 ![ React project  ](image-r1-log/react.png  " React project  ")
 * <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank">A Complete Guide to Grid</a>
 ___
+
+
+### R1D11 (June 23,2019)
+Learning more about React.createContext API
+* <a href="https://reactjs.org/docs/context.html#reactcreatecontext" target="_blank">React context API</a>
+___
+
+
+### R1D12 (June 24,2019)
+Learning more React Router: Declarative routing for React
+* <a href="https://reacttraining.com/react-router/web/guides/quick-start" target="_blank">React Router</a>
+___
+
+
+### R1D13 (June 25,2019)
+Working on loading data 
+![loading-data](image-r1-log/loading.gif "loading-data")
+___
