@@ -171,3 +171,13 @@ ___
 Working on loading data 
 ![loading-data](image-r1-log/loading.gif "loading-data")
 ___
+
+### R1D14 (June 26,2019)
+Review Typechecking With PropTypes
+* <a href="https://reactjs.org/docs/typechecking-with-proptypes.html" target="_blank">Typechecking With PropTypes</a>
+___
+
+### R1D15 (June 27,2019)
+Review Typechecking With PropTypes
+![styled-hero](image-r1-log/styled.gif "styled-hero")
+___
