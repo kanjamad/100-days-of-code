@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [June 13, Thursday, 2019].
 
 ## Log
 
-### R1D1 (June 13,2019)
+### R1D1 
 Started a basic CSS
 * CSS(Cascading style sheets)
 * Used to make our web projects awesome and beautiful so you can say CSS is responsible for styling
@@ -17,13 +17,13 @@ In general there are 3 ways how to start using CSS the
 
 ---
 
-### R1D2 (June 14,2019)
+### R1D2 
 I will build nice profile card. Manipulate on backgrounds and create some cool effects. Project will be built based on HTML and CSS
 * [Link to project hosted on Github](https://github.com/kanjamad/Invisible-Card)
 
 ---
 
-### R1D3 (June 15,2019)
+### R1D3 
 Finish create a profile card base on HTML CSS. It was an interesting project and I learned some more cool CSS.
 * [Link to project hosted on Github](https://github.com/kanjamad/Invisible-Card)
 * [Link to project hosted on Netlify](https://card-profile-kanjamad.netlify.com/)
@@ -51,13 +51,13 @@ Finish create a profile card base on HTML CSS. It was an interesting project and
 ![website-gif](image-r1-log/animate.gif "website-gif")
 
 ---
-### R1D5 (June 17,2019)
+### R1D5 
 Learning CSS transform and play with it.
 * <a href="https://codepen.io/team/css-tricks/pen/ebb6b5a5cec86aa04168f03e26c7501c" target="_blank">CSS transform</a>
 
 ___
 
-### R1D6 (June 18,2019)
+### R1D6 
 Learning CSS transform property
 ![ rotate front and back ](image-r1-log/ratateY.gif  "  rotate front and back ")
 * <a href="https://codepen.io/team/css-tricks/pen/ebb6b5a5cec86aa04168f03e26c7501c" target="_blank">CSS transform</a>
@@ -66,7 +66,7 @@ Learning CSS transform property
 
 ___
 
-### R1D7 (June 19,2019)
+### R1D7 
 
 * Create Rotate 3 cube by click on left arrow. 
 * ES6 Cover it back to an Array using; Array.from() or using the spread operator ...
@@ -132,7 +132,7 @@ document.querySelector('.left-arrow').addEventListener('click', () => {
 
 ___
 
-### R1D8 (June 20,2019)
+### R1D8 
 Review Program Structure. 
 
 * <a href="http://eloquentjavascript.net/02_program_structure.html" target="_blank">Program Structure</a>
@@ -140,14 +140,14 @@ Review Program Structure.
 ___
 
 
-### R1D9 (June 21,2019)
+### R1D9 
 * Went to the event @sfhtml5 
 * Learn Declarative Reactive Web Components with LitElement
 
 * <a href="https://www.youtube.com/watch?v=9FB0GSOAESo&t=3s" target="_blank">Declarative Reactive Web Components with Justin Fagnani</a>
 ___
 
-### R1D10 (June 22,2019)
+### R1D10 
 Learning more about CSS grid and working on React project
 
 ![ React project  ](image-r1-log/react.png  " React project  ")
@@ -155,29 +155,29 @@ Learning more about CSS grid and working on React project
 ___
 
 
-### R1D11 (June 23,2019)
+### R1D11 
 Learning more about React.createContext API
 * <a href="https://reactjs.org/docs/context.html#reactcreatecontext" target="_blank">React context API</a>
 ___
 
 
-### R1D12 (June 24,2019)
+### R1D12 
 Learning more React Router: Declarative routing for React
 * <a href="https://reacttraining.com/react-router/web/guides/quick-start" target="_blank">React Router</a>
 ___
 
 
-### R1D13 (June 25,2019)
+### R1D13 
 Working on loading data 
 ![loading-data](image-r1-log/loading.gif "loading-data")
 ___
 
-### R1D14 (June 26,2019)
+### R1D14 
 Review Typechecking With PropTypes
 * <a href="https://reactjs.org/docs/typechecking-with-proptypes.html" target="_blank">Typechecking With PropTypes</a>
 ___
 
-### R1D15 (June 27,2019)
+### R1D15 
 Used styled components to render the images
 ![styled-hero](image-r1-log/styled.gif "styled-hero")
 ___
