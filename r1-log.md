@@ -178,6 +178,6 @@ Review Typechecking With PropTypes
 ___
 
 ### R1D15 (June 27,2019)
-Review Typechecking With PropTypes
+Used styled components to render the images
 ![styled-hero](image-r1-log/styled.gif "styled-hero")
 ___
